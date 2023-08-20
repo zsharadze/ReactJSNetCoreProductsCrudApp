@@ -1,8 +1,4 @@
-# ReactJSNetCoreProductsCrudApp
-This is ReactJS and ASP.Net Core 7 Web Api products Crud example project.
-
-
-# ReactJS ASPNetCore DDD Example
+# ReactJS and AspNetCore Products Crud App
 This is ReactJS and ASP.Net Core 7 Web Api products Crud example project.
 
 ## Features
