@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj": {}
+    "C:\\Users\\Simpleuser\\Downloads\\New folder\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj": {
+    "C:\\Users\\Simpleuser\\Downloads\\New folder\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Simpleuser\\Downloads\\New folder\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj",
         "projectName": "ASPNetCoreAPI",
-        "projectPath": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj",
+        "projectPath": "C:\\Users\\Simpleuser\\Downloads\\New folder\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj",
         "packagesPath": "C:\\Users\\Simpleuser\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\obj\\",
+        "outputPath": "C:\\Users\\Simpleuser\\Downloads\\New folder\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

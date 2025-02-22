@@ -19,7 +19,7 @@ builder.Services.AddCors(o => o.AddPolicy(MyAllowSpecificOrigins, builder =>
 
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetValue<string>("ConnectionStrings:DefaultConnection")));
 
-builder.Services.AddTransient<ImageSaver>();
+builder.Services.AddScoped<ImageSaver>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

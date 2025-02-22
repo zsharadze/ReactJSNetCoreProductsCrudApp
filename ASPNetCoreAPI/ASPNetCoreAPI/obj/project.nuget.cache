@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IaCeS8VGBOg=",
+  "dgSpecHash": "dGfdR8twBqY=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj",
+  "projectFilePath": "C:\\Users\\Simpleuser\\Downloads\\New folder\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simpleuser\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Simpleuser\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
