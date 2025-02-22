@@ -3911,19 +3911,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Preston\\.nuget\\packages\\": {}
+    "C:\\Users\\Simpleuser\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj",
+      "projectUniqueName": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj",
       "projectName": "ASPNetCoreAPI",
-      "projectPath": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj",
-      "packagesPath": "C:\\Users\\Preston\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\obj\\",
+      "projectPath": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\ASPNetCoreAPI.csproj",
+      "packagesPath": "C:\\Users\\Simpleuser\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Preston\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Simpleuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3943,7 +3948,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net7.0": {
@@ -3991,7 +4002,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

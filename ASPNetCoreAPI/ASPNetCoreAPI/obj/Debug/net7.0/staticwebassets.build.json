@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mg8tOkSq64G/kwkfscG0KOFeEowiplraz4LeNmbTgaY=",
+  "Hash": "sAYPhdyzrM4aSDjdNimkxvsUPu+jV3vW+F5A3y20tdQ=",
   "Source": "ASPNetCoreAPI",
   "BasePath": "_content/ASPNetCoreAPI",
   "Mode": "Default",
@@ -10,283 +10,1661 @@
     {
       "Name": "ASPNetCoreAPI\\wwwroot",
       "Source": "ASPNetCoreAPI",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\placeholder.dummy",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\placeholder.dummy",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/placeholder.dummy",
+      "RelativePath": "imgs/placeholder#[.{fingerprint}]?.dummy",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\placeholder.dummy"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product1.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product1.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product1.png",
+      "RelativePath": "imgs/product1#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "xqn5pfzavj",
+      "Integrity": "eQwNvi50GgMBzN0aZcL+QyLIlN9uaO6pMW4dtB7lVLQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product1.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product10.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product10.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product10.png",
+      "RelativePath": "imgs/product10#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "xpkbtdwy23",
+      "Integrity": "W7GhivDs4DeJM2nvGYCeBfYzsFXOJ0WOkeJNyBgduuU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product10.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product11.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product11.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product11.png",
+      "RelativePath": "imgs/product11#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "3gsr0aknzm",
+      "Integrity": "Pc+xKL9vPDK+rc8DOn0QdqtEcr01Msylee0AKQG2cY8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product11.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product12.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product12.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product12.png",
+      "RelativePath": "imgs/product12#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "exfwyb9iu3",
+      "Integrity": "XmkqnrEmKBiMw0o0FO2IYVhHbwvqq7Xi4DTWfnBo3Ws=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product12.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product13.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product13.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product13.png",
+      "RelativePath": "imgs/product13#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "x8kudrm7xi",
+      "Integrity": "/6RV+0mQxr/UC9IA+EYBJsuxMFUjW+LbklGlxkgBWao=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product13.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product14.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product14.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product14.png",
+      "RelativePath": "imgs/product14#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "y7km1dpir5",
+      "Integrity": "3hT8mX9vxbBvOrJMNkngl6K5RAIc3yvfNAbnGe7Dj2s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product14.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product15.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product15.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product15.png",
+      "RelativePath": "imgs/product15#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "tciy575wus",
+      "Integrity": "k33bfUf69Wrx7agA3HywOjCA9wIOP0qlP7wh9u2lqQc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product15.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product2.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product2.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product2.png",
+      "RelativePath": "imgs/product2#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "49n4ahgbis",
+      "Integrity": "SMNHBmAkbhbfHEFaqjeRCUCWgkmxZ6T+tJrE00W3kdo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product2.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product3.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product3.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product3.png",
+      "RelativePath": "imgs/product3#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "7w7g1eanci",
+      "Integrity": "94QsCubdpqMDKjweafxpZb2V+0QBwr8GQp15F+iUXS0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product3.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product4.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product4.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product4.png",
+      "RelativePath": "imgs/product4#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "58xn1ss1c2",
+      "Integrity": "9ZhcITxXIBQTHY5lW7OovWIdxilFXL6zc3v81LdZmJo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product4.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product5.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product5.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product5.png",
+      "RelativePath": "imgs/product5#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "9qjr2b6mos",
+      "Integrity": "ocqX8SMBMQwbg2PD+rN1egzd+TT4cIxAT672N3CwGsc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product5.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product6.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product6.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product6.png",
+      "RelativePath": "imgs/product6#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "diirte3ad0",
+      "Integrity": "dXvoK/Lj8iUxsT9B5E3hfNMb9Oq1Ahm8RAc2qslXcLA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product6.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product7.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product7.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product7.png",
+      "RelativePath": "imgs/product7#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ufupbrtu30",
+      "Integrity": "Wu3OrMbFqv9QyaGxsJZccjnMt3Wu/E1MzKqEzpMQZ3Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product7.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product8.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product8.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product8.png",
+      "RelativePath": "imgs/product8#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "9qw66fvg3a",
+      "Integrity": "z8I/FRAkpfmOpBF0Q9OeHPpQO3QkKwwM7IgXmo4deYQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product8.png"
     },
     {
-      "Identity": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product9.png",
+      "Identity": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product9.png",
       "SourceId": "ASPNetCoreAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\ReactJSAndNetCoreProductsApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\",
       "BasePath": "_content/ASPNetCoreAPI",
-      "RelativePath": "imgs/product9.png",
+      "RelativePath": "imgs/product9#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "3w9luao4y5",
+      "Integrity": "U+ui7xaZhBwIWkWf+wC1KBH2PlCrM2YR1Se4xTs6eoM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\product9.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imgs/placeholder.5ipweew5fc.dummy",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\placeholder.dummy",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/placeholder.dummy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/placeholder.dummy",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\placeholder.dummy",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product1.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQwNvi50GgMBzN0aZcL+QyLIlN9uaO6pMW4dtB7lVLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQwNvi50GgMBzN0aZcL+QyLIlN9uaO6pMW4dtB7lVLQ="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product1.xqn5pfzavj.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQwNvi50GgMBzN0aZcL+QyLIlN9uaO6pMW4dtB7lVLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xqn5pfzavj"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQwNvi50GgMBzN0aZcL+QyLIlN9uaO6pMW4dtB7lVLQ="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product10.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product10.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94779"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7GhivDs4DeJM2nvGYCeBfYzsFXOJ0WOkeJNyBgduuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W7GhivDs4DeJM2nvGYCeBfYzsFXOJ0WOkeJNyBgduuU="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product10.xpkbtdwy23.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product10.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94779"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7GhivDs4DeJM2nvGYCeBfYzsFXOJ0WOkeJNyBgduuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xpkbtdwy23"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product10.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W7GhivDs4DeJM2nvGYCeBfYzsFXOJ0WOkeJNyBgduuU="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product11.3gsr0aknzm.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product11.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pc+xKL9vPDK+rc8DOn0QdqtEcr01Msylee0AKQG2cY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3gsr0aknzm"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product11.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pc+xKL9vPDK+rc8DOn0QdqtEcr01Msylee0AKQG2cY8="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product11.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product11.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pc+xKL9vPDK+rc8DOn0QdqtEcr01Msylee0AKQG2cY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pc+xKL9vPDK+rc8DOn0QdqtEcr01Msylee0AKQG2cY8="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product12.exfwyb9iu3.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product12.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XmkqnrEmKBiMw0o0FO2IYVhHbwvqq7Xi4DTWfnBo3Ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "exfwyb9iu3"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product12.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmkqnrEmKBiMw0o0FO2IYVhHbwvqq7Xi4DTWfnBo3Ws="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product12.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product12.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XmkqnrEmKBiMw0o0FO2IYVhHbwvqq7Xi4DTWfnBo3Ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmkqnrEmKBiMw0o0FO2IYVhHbwvqq7Xi4DTWfnBo3Ws="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product13.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product13.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/6RV+0mQxr/UC9IA+EYBJsuxMFUjW+LbklGlxkgBWao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/6RV+0mQxr/UC9IA+EYBJsuxMFUjW+LbklGlxkgBWao="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product13.x8kudrm7xi.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product13.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/6RV+0mQxr/UC9IA+EYBJsuxMFUjW+LbklGlxkgBWao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x8kudrm7xi"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product13.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/6RV+0mQxr/UC9IA+EYBJsuxMFUjW+LbklGlxkgBWao="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product14.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product14.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3hT8mX9vxbBvOrJMNkngl6K5RAIc3yvfNAbnGe7Dj2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3hT8mX9vxbBvOrJMNkngl6K5RAIc3yvfNAbnGe7Dj2s="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product14.y7km1dpir5.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product14.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3hT8mX9vxbBvOrJMNkngl6K5RAIc3yvfNAbnGe7Dj2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7km1dpir5"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product14.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3hT8mX9vxbBvOrJMNkngl6K5RAIc3yvfNAbnGe7Dj2s="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product15.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product15.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k33bfUf69Wrx7agA3HywOjCA9wIOP0qlP7wh9u2lqQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k33bfUf69Wrx7agA3HywOjCA9wIOP0qlP7wh9u2lqQc="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product15.tciy575wus.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product15.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k33bfUf69Wrx7agA3HywOjCA9wIOP0qlP7wh9u2lqQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tciy575wus"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product15.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k33bfUf69Wrx7agA3HywOjCA9wIOP0qlP7wh9u2lqQc="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product2.49n4ahgbis.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SMNHBmAkbhbfHEFaqjeRCUCWgkmxZ6T+tJrE00W3kdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49n4ahgbis"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SMNHBmAkbhbfHEFaqjeRCUCWgkmxZ6T+tJrE00W3kdo="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product2.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SMNHBmAkbhbfHEFaqjeRCUCWgkmxZ6T+tJrE00W3kdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SMNHBmAkbhbfHEFaqjeRCUCWgkmxZ6T+tJrE00W3kdo="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product3.7w7g1eanci.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"94QsCubdpqMDKjweafxpZb2V+0QBwr8GQp15F+iUXS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7w7g1eanci"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-94QsCubdpqMDKjweafxpZb2V+0QBwr8GQp15F+iUXS0="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product3.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"94QsCubdpqMDKjweafxpZb2V+0QBwr8GQp15F+iUXS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-94QsCubdpqMDKjweafxpZb2V+0QBwr8GQp15F+iUXS0="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product4.58xn1ss1c2.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ZhcITxXIBQTHY5lW7OovWIdxilFXL6zc3v81LdZmJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58xn1ss1c2"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ZhcITxXIBQTHY5lW7OovWIdxilFXL6zc3v81LdZmJo="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product4.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ZhcITxXIBQTHY5lW7OovWIdxilFXL6zc3v81LdZmJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ZhcITxXIBQTHY5lW7OovWIdxilFXL6zc3v81LdZmJo="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product5.9qjr2b6mos.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ocqX8SMBMQwbg2PD+rN1egzd+TT4cIxAT672N3CwGsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9qjr2b6mos"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ocqX8SMBMQwbg2PD+rN1egzd+TT4cIxAT672N3CwGsc="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product5.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ocqX8SMBMQwbg2PD+rN1egzd+TT4cIxAT672N3CwGsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ocqX8SMBMQwbg2PD+rN1egzd+TT4cIxAT672N3CwGsc="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product6.diirte3ad0.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXvoK/Lj8iUxsT9B5E3hfNMb9Oq1Ahm8RAc2qslXcLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "diirte3ad0"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXvoK/Lj8iUxsT9B5E3hfNMb9Oq1Ahm8RAc2qslXcLA="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product6.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXvoK/Lj8iUxsT9B5E3hfNMb9Oq1Ahm8RAc2qslXcLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXvoK/Lj8iUxsT9B5E3hfNMb9Oq1Ahm8RAc2qslXcLA="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product7.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wu3OrMbFqv9QyaGxsJZccjnMt3Wu/E1MzKqEzpMQZ3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wu3OrMbFqv9QyaGxsJZccjnMt3Wu/E1MzKqEzpMQZ3Q="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product7.ufupbrtu30.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wu3OrMbFqv9QyaGxsJZccjnMt3Wu/E1MzKqEzpMQZ3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ufupbrtu30"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wu3OrMbFqv9QyaGxsJZccjnMt3Wu/E1MzKqEzpMQZ3Q="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product8.9qw66fvg3a.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8I/FRAkpfmOpBF0Q9OeHPpQO3QkKwwM7IgXmo4deYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9qw66fvg3a"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8I/FRAkpfmOpBF0Q9OeHPpQO3QkKwwM7IgXmo4deYQ="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product8.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8I/FRAkpfmOpBF0Q9OeHPpQO3QkKwwM7IgXmo4deYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8I/FRAkpfmOpBF0Q9OeHPpQO3QkKwwM7IgXmo4deYQ="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product9.3w9luao4y5.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+ui7xaZhBwIWkWf+wC1KBH2PlCrM2YR1Se4xTs6eoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3w9luao4y5"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/product9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+ui7xaZhBwIWkWf+wC1KBH2PlCrM2YR1Se4xTs6eoM="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/product9.png",
+      "AssetFile": "D:\\Projects\\ReactJSNetCoreProductsCrudApp\\ASPNetCoreAPI\\ASPNetCoreAPI\\wwwroot\\imgs\\product9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+ui7xaZhBwIWkWf+wC1KBH2PlCrM2YR1Se4xTs6eoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+ui7xaZhBwIWkWf+wC1KBH2PlCrM2YR1Se4xTs6eoM="
+        }
+      ]
     }
   ]
 }
